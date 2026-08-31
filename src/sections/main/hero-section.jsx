@@ -69,7 +69,7 @@ export function HeroSection() {
     transition={{ delay: 0.4, duration: 0.5 }}
     className="text-2xl sm:text-5xl md:text-4xl font-semibold mb-4 text-center"
   >
-    International Conference on Smart and Distributed Computing (ICSDC 2025)
+    International Conference on Smart and Distributed Computing (ICSDC 2027)
   </motion.h1>
 </div>
         <motion.p
@@ -93,14 +93,14 @@ export function HeroSection() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.6, duration: 0.5 }}
         >
-          <Button 
+          </*Button 
             size="lg" 
             variant="outline" 
             className="text-black"
             onClick={() => window.open('https://cmt3.research.microsoft.com/ICSDC2025/', '_blank')}
           >
             Submit Article
-          </Button>
+          </Button*/>
         </motion.div>
       </div>
     </motion.section>
