@@ -81,7 +81,7 @@ export function Navbar() {
             onClick={() => scrollToSection('home')}
           >
             <img src={Logo} alt="ICSDC Logo" className="w-8 h-8 rounded-full shadow-md" />
-            <span className="text-lg font-bold text-primary">ICSDC 2025</span>
+            <span className="text-lg font-bold text-primary">ICSDC 2027</span>
           </a>
           {/* SDG Icons */}
           <div className="flex space-x-1">
