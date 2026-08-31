@@ -86,7 +86,7 @@ export function HeroSection() {
           transition={{ delay: 0.4, duration: 0.5 }}
           className="sm:text-lg md:text-lg font-semibold mb-8"
         >
-         31 October - 1 November 2025
+         30 July - 31 July 2027
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 20 }}
