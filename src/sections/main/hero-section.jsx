@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion'
 import backgroundImage from '../../assets/Manipal.jpeg'
+import mujlogo from '../../assets/mujlogo.png'
 import Video from '../../assets/mujvideo.mp4'
 import { Button } from '@/components/ui/button'
 
@@ -39,7 +40,7 @@ export function HeroSection() {
       <div className="flex flex-col items-center">
       <div className="flex items-center justify-center gap-4 p-4">
   <motion.img
-    src="https://jaipur.manipal.edu/img/manipal-university-jaipur-logo-01.svg"
+    src={mujlogo}
     alt="MUJ Logo"
     initial={{ opacity: 0, scale: 0.8 }}
     animate={{ opacity: 1, scale: 1 }}
