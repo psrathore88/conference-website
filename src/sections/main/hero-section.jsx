@@ -39,7 +39,7 @@ export function HeroSection() {
       <div className="flex flex-col items-center">
       <div className="flex items-center justify-center gap-4 p-4">
   <motion.img
-    src="https://upload.wikimedia.org/wikipedia/en/1/1f/Manipal_University_Jaipur_logo.png"
+    src="https://jaipur.manipal.edu/img/manipal-university-jaipur-logo-01.svg"
     alt="MUJ Logo"
     initial={{ opacity: 0, scale: 0.8 }}
     animate={{ opacity: 1, scale: 1 }}
