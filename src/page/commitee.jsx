@@ -118,182 +118,181 @@ export default function Commitee(){
       ];
       const InternationalAdvisoryCommittee = [
         {
-          name: "Prof. Bahman Javadi" , 
-          role: "The Smart and Distributed Computing (SDC) Lab School of Computer, Data and Mathematical Sciences Western Sydney University, Sydney, Australia",
-          image: "" ,
-        },
-        {
-       name: 'Dr. Shitharth Selvarajan',
-        role:'Leeds Beckett University, Leeds, U.K.',
-        image: '',
-
-        },
-
-        {
-          name: 'Prof. Fatos Xhafa',
-          role: 'Universitat Politècnica de Catalunya, Barcelona, Spain',
-          image: '',
-        },
-        {
-          name: 'Dr. Laia Subirats',
-          role: 'Open University of Catalonia, Barcelona, Spain',
-          image: '',
-        },
-        {
-          name: 'Dr. Muhammad Fazal',
-          role: 'Melbourne Institute of Technology, Australia',
-          email: 'mfazal@mit.edu.au',
-        },
-        {
-          name: 'Prof. Muna Elsadig',
-          role: 'Princess Nourah bint Abdulrahman University, Riyadh, Saudi Arabia',
-          email: 'Memohamedahmed@pnu.edu.sa',
-        },
-        {
-          name: 'Mariyam Aysha Bivi',
-          role: 'King Khalid University, Gregar, Saudi Arabia',
-          email: 'aysha@kku.edu.sa',
-        },
-        {
-          name: 'Dr. Shakila Basheer',
-          role: 'Princess Nourah bint Abdulrahman University, Riyadh, Saudi Arabia',
-          email: 'sbbasheer@pnu.edu.sa',
-        },
-        {
-          name: 'Dr. Hasmat Malik',
-          role: 'Universiti Teknologi Malaysia (UTM), Malaysia',
-          email: 'hasmat@utm.my, hasmat@fke.utm.my',
-        },
-        {
-          name: 'Dr. Thippa Reddy Gadekallu',
-          role: 'Jiaxing University, Jiaxing, China',
-          email: 'thippa@zhongda.cn, krish.chaitanya143@gmail.com',
-        },
-        {
-          name: 'Prof. Jaejeung Kim',
-          role: 'Chungnam National University, Daejeon, South Korea',
-          email: 'jjkim@cnu.ac.kr',
-        },
-        {
-          name: 'Dr. Saurabh Singh',
-          role: 'Woosong University, Daejeon, South Korea',
-          email: 'singh.saurabh@wsu.ac.kr',
-        },
-        {
-          name: 'Prof. Mohammed Abdulaziz Alsubhi',
-          role: 'University of Tabuk, Saudi Arabia',
-          email: 'malsubhi@ut.edu.sa',
-        },
-        {
-          name: 'Prof. Abdullatif Saleh Alfaqiri',
-          role: 'Taibah University, Madinah, Saudi Arabia',
-          email: 'afaqiri@taibahu.edu.sa',
-        },
-        {
-          name: 'Prof. Mohammad Zubair Khan',
-          role: 'Taibah University, Madinah, Saudi Arabia',
-          email: 'mkhanb@taibahu.edu.sa',
-        },
-        {
-          name: 'Dr. Arfat Ahmad Khan',
-          role: 'Khon Kaen University, Thailand',
-          email: 'arfatkhan@kku.ac.th',
-        },
-        {
-          name: 'Dr. Adil Rasool',
-          role: 'Bakhtar University, Kabul, Afghanistan',
-          email: 'adilrasool@bakhtar.edu.af',
-        },
-        {
-          name: 'Prof. Keshav Dahal',
-          role: 'University of the West of Scotland (UWS), Paisley, Scotland',
-          image: 'https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=yIkdopsAAAAJ&citpid=3?height=200&width=200'
-        },
-        {
-          name: 'Dr. Ting Tin Tin',
-          role: 'INTI International University, Nilai, Malaysia',
-          image: 'https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=0ZM3lGIAAAAJ&citpid=1?height=200&width=200'
-        },
-        {
-          name: 'Dr. Pranay Bhardwaj',
-          role: 'New York University, Abu Dhabi, UAE',
-          image: '/Pranay.jpeg?height=200&width=200'
-        },
-        {
-          name: 'Dr. Vikas Jaiman',
-          role: 'PassApp, Berlin, Germany',
-          image: 'https://vjaiman.gitlab.io/vikas_pic.jpg?height=200&width=200'
-        },
-        {
-          name: 'Mr. Ankit Kumar Sharma',
-          role: 'HCL Technologies, California, USA',
-          image: '/Ankit.JPG?height=200&width=200'
-        },
-        {
-          name: 'Dr. Dijana Capeska Bogatinoska',
-          role: 'University for Information Science and Technology, Ohrid, Republic of North Macedonia',
-          image: ''
-        },
-        {
-          name: 'Dr. Hamurabi Gamboa Rosales',
-          role: 'Universidad Autónoma de Zacatecas, Zacatecas, Mexico',
-          image: ''
-        },
-        {
-          name: 'Dr. Ladislav Polak',
-          role: 'Brno University of Technology, Brno, Czech Republic',
-          image: ''
-        },
-        {
-          name: 'Dr. Edmar Candeia Gurjao',
-          role: 'Federal University of Campina Grande (UFCG), Campina Grande, Brazil',
-          image: ''
-        },
-        {
-          name: 'Dr. Farid Nait-Abdesselam',
-          role: 'Department of Computer Science, Paris Cité University, Paris, France',
-          image: '',
-        },
-        {
-          name: 'Dr. Suman Ghosh',
-          role: 'Huawei Finland Research Center, Helsinki, Finland',
-          image: '',
-        },
-        {
-          name: 'Dr. Eleonora De Fillipi',
-          role: 'University of Strasbourg, Strasbourg, France',
-          image: '',
-        },
-        {
-          name: 'Dr. Mihnea Tufis',
-          role: 'Eurecat, Barcelona, Spain',
-          image: '',
-        },
-        {
-          name: 'Dr. Rohit Kumar',
-          role: 'AstreZenica, Barcelona, Spain',
-          image: '',
-        },
-        {
-          name: 'Dr. Naveen Kumar Meena',
-          role: 'Beca Limited, Sydney, Australia',
-          image: '',
-        },
-        {
-          name: 'Dr. Nishit Aman',
-          role: 'Chulalongkorn University, Bangkok, Thailand',
-          image: '',
-        },
-        {
-          name: 'Dr. Vishal Mathur',
-          role: 'American International University, Kuwait',
-          image: '',
-        },
-        {
-          name: 'Prof. Bahman Javadi',
-          role: 'SDC Lab, Western Sydney University, Sydney, Australia',
-          image: '',
-        }
+    name: 'Dr. Shitharth Selvarajan',
+    role: 'Leeds Beckett University, Leeds, U.K.',
+  },
+  {
+    name: 'Dr. Surbhi Bhatia Khan',
+    role: 'University of Salford, U.K.',
+  },
+  {
+    name: 'Prof. DacNhuong Le',
+    role: 'Haiphong University, Vietnam',
+  },
+  {
+    name: 'Prof. Danish Ali Khan',
+    role: 'National Institute of Technology, Jamshedpur, India',
+  },
+  {
+    name: 'Dr. Binod Kumar Singh',
+    role: 'National Institute of Technology, Jamshedpur, India',
+  },
+  {
+    name: 'Dr. Mahima Arawatia',
+    role: 'IIT Guwahati, India',
+  },
+  {
+    name: 'Dr. Koninika Pal',
+    role: 'CSE, IIT Palakkad, Kanjikode, India',
+  },
+  {
+    name: 'Dr. Suman Banerjee',
+    role: 'IIT Jammu, India',
+  },
+  {
+    name: 'Dr. Swalpa Kumar Roy',
+    role: 'Tezpur University, Tezpur, India',
+  },
+  {
+    name: 'Prof. Debojyaty Banik',
+    role: 'Anurag University, Hyderabad, India',
+  },
+  {
+    name: 'Prof. (Dr.) Parag Rughani',
+    role: 'National Forensic Sciences University, Gandhinagar, India',
+  },
+  {
+    name: 'Prof. Neeraj Bharagava',
+    role: 'MDSU University, Ajmer, India',
+  },
+  {
+    name: 'Dr. Suman Ghosh',
+    role: 'York Business School, London, U.K.',
+  },
+  {
+    name: 'Dr. Rohit Kumar',
+    role: 'AstraZeneca, Barcelona, Spain',
+  },
+  {
+    name: 'Prof. Abhishek Pandey',
+    role: 'Chandigarh University, Chandigarh, India',
+  },
+  {
+    name: 'Dr. Vinay Kumar',
+    role: 'Indian Institute of Information Technology, Raipur, India',
+  },
+  {
+    name: 'Dr. Subrata Dutta',
+    role: 'National Institute of Technology, Jamshedpur, India',
+  },
+  {
+    name: 'Dr. N. D. Jana',
+    role: 'National Institute of Technology, Durgapur, India',
+  },
+  {
+    name: 'Dr. Anand',
+    role: 'NIT Surathkal, India',
+  },
+  {
+    name: 'Prof. Rashmi Agarwal',
+    role: 'Manav Rachna University, Faridabad, India',
+  },
+  {
+    name: 'Prof. Sudhanshu Shekhar Patra',
+    role: 'KIIT University, Bhubaneswar, India',
+  },
+  {
+    name: 'Prof. Avinash Panwar',
+    role: 'MLSU, Udaipur, India',
+  },
+  {
+    name: 'Dr. Pratik Patel',
+    role: 'NFSU Gandhinagar, India',
+  },
+  {
+    name: 'Dr. Animesh Roy',
+    role: 'IIIT Dharwad, Hubballi, India',
+  },
+  {
+    name: 'Dr. A. Jayanthila Devi',
+    role: 'Adichunchanagiri University, India',
+  },
+  {
+    name: 'Dr. Nishant Kumar',
+    role: 'IIT Jodhpur, Jodhpur, India',
+  },
+  {
+    name: 'Dr. Nandan Banerji',
+    role: 'BIT Mesra, Ranchi, India',
+  },
+  {
+    name: 'Dr. Monu Bhagat',
+    role: 'BIT Mesra, Ranchi, India',
+  },
+  {
+    name: 'Dr. Prasenjit Das',
+    role: 'smartData Enterprises, Panchkula, India',
+  },
+  {
+    name: 'Dr. Shobit Srivastava',
+    role: 'Dr. Ram Manohar Lohia Avadh University, Ayodhya, India',
+  },
+  {
+    name: 'Dr. Abhishek Narwaria',
+    role: 'NIT Jalandhar, India',
+  },
+  {
+    name: 'Dr. Subrata Chowdhury',
+    role: 'Abdul Hakeem College of Engineering and Technology, Melvisharam, Ranipet, India',
+  },
+  {
+    name: 'Dr. Hashmat Fida',
+    role: 'Presidency University, Bangalore, India',
+  },
+  {
+    name: 'Dr. Arijit Nandi',
+    role: 'Eurecat, Barcelona, Spain',
+  },
+  {
+    name: 'Dr. Sanjit Kumar Roy',
+    role: 'Uppsala University, Sweden',
+  },
+  {
+    name: 'Dr. Ravishankar Mehta',
+    role: 'BIT Mesra, Ranchi, India',
+  },
+  {
+    name: 'Dr. Dhruba Joyti Kalita',
+    role: 'LNMIIT, Jaipur, India',
+  },
+  {
+    name: 'Dr. Sk. Md. Obaidullah',
+    role: 'Aliah University, Kolkata, India',
+  },
+  {
+    name: 'Dr. Sandipan Dhar',
+    role: 'Fraunhofer IIS, Germany',
+  },
+  {
+    name: 'Dr. Sanjay Kumar',
+    role: 'SRM University AP, Amaravati, India',
+  },
+  {
+    name: 'Mr. Ravinder Singh Rathore',
+    role: 'Minneapolis, Minnesota, USA',
+  },
+  {
+    name: 'Prof. Prakash Singh Tanwar',
+    role: 'Lovely Professional University, Phagwara, India',
+  },
+  {
+    name: 'Mr. Prabhanshu Sharma',
+    role: 'Ebix Inc, India',
+  },
+  {
+    name: 'Dr. Arun Lal Srivastav',
+    role: 'Tulas University, Dehradun, India',
+  }
        
       ];
       const nationalAdvisoryCommittee = [
