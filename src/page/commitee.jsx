@@ -441,11 +441,11 @@ export default function Commitee(){
     transition={{ duration: 0.5 }}
     className="py-16 gradientbgt w-full"
   >
-    <div className="pt-4">
-      <h1 className="text-3xl font-semibold mb-4 text-center text-black">
+    <!--div className="pt-4">
+      <!--h1 className="text-3xl font-semibold mb-4 text-center text-black">
         COMMITTEE'S
       </h1>
-    </div>
+    <!--/div-->
   
     {/* International Advisory Committee Section */}
     <motion.section
