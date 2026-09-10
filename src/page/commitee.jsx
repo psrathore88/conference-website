@@ -457,7 +457,7 @@ export default function Commitee(){
     <section className=" gradeintbg">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-semibold mb-8 text-center text-black">
-          INTERNATIONAL ADVISORY COMMITTEE
+          CONFERENCE ADVISORY COMMITTEE
         </h2>
         <ul className="list-disc pl-6 text-gray-700">
           {InternationalAdvisoryCommittee.map((member) => (
@@ -471,51 +471,7 @@ export default function Commitee(){
     </ motion.section>
   
     {/* National Advisory Committee Section */}
-    <motion.section
-    initial={{ opacity: 0 }}
-    animate={{ opacity: 1 }}
-    transition={{ duration: 0.5 }}
-    className="py-10 gradientbg w-full"
-  >
-    <section className="gradeintbgt">
-      <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-semibold mb-8 text-center text-black">
-          NATIONAL ADVISORY COMMITTEE
-        </h2>
-        <ul className="list-disc pl-6 text-gray-700">
-          {nationalAdvisoryCommittee.map((member) => (
-            <li key={member.name}>
-              <span className="font-semibold">{member.name}</span> {member.role}
-            </li>
-          ))}
-        </ul>
-      </div>
-    </section>
-    </motion.section>
-  
-    {/* Technical Committee Section */}
-    <motion.section
-    initial={{ opacity: 0 }}
-    animate={{ opacity: 1 }}
-    transition={{ duration: 0.5 }}
-    className="py-10 gradientbgt w-full"
-  >
-    <section className="gradeintbg">
-      <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-semibold mb-8 text-center text-black">
-          TECHNICAL PROGRAM COMMITTEE
-        </h2>
-        <ul className="list-disc pl-6 text-gray-700">
-          {TechnicalCommitteeMembers.map((member) => (
-            <li key={member.name}>
-              <span className="font-semibold">{member.name}</span> {member.role}
-            </li>
-          ))}
-        </ul>
-      </div>
-    </section>
-    </motion.section>
-    {/* <Speakers /> */}
+        {/* <Speakers /> */}
     <OrganizingCommittee />
   </motion.section>
   )
