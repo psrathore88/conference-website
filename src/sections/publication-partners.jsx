@@ -17,7 +17,7 @@ export function PublicationPartners() {
           transition={{ delay: 0.2, duration: 0.5 }}
           className="text-3xl font-semibold mb-8 text-center text-black"
         >
-          PUBLICATION PARTNERS
+          ICSDC 2025 PUBLICATION PARTNERS
         </motion.h2>
         
         <motion.div
