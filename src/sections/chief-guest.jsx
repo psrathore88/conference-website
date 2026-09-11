@@ -20,7 +20,7 @@ export function ChiefGuest() {
           transition={{ duration: 0.5 }}
           className="text-4xl font-bold mb-8 text-center text-gray-900"
         >
-          CHIEF GUEST
+          ICSDC 2025 CHIEF GUEST
         </motion.h2>
 
         <motion.div
