@@ -93,6 +93,7 @@ export function HeroSection() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.6, duration: 0.5 }}
         >
+          {/*
           <Button 
             size="lg" 
             variant="outline" 
@@ -101,6 +102,7 @@ export function HeroSection() {
           >
             Submit Article
           </Button>
+        */}
         </motion.div>
       </div>
     </motion.section>
