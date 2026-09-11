@@ -10,7 +10,7 @@ export function Footer() {
     <div className="max-w-full mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
       <div className="xl:grid xl:grid-cols-3 xl:gap-16">
         <div className="space-y-8 xl:col-span-1">
-          <span className="text-2xl font-bold">INTERNATIONAL CONFERENCE ON SMART AND DISTRIBUTED COMPUTING 2025</span>
+          <span className="text-2xl font-bold">INTERNATIONAL CONFERENCE ON SMART AND DISTRIBUTED COMPUTING 2027</span>
           {/* <p className="text-gray-400 text-base">
             For queries, contact: <a href="mailto:hod.cce@jaipur.manipal.edu" className="underline">hod.cce@jaipur.manipal.edu</a>
           </p> */}
