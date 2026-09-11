@@ -77,7 +77,9 @@ export default function Instructions() {
       Publication
     </h2>
     <p className="text-black">
-    All accepted and presented papers will be submitted to CRC Press Conference Proceedings (SCOPUS-indexed).
+    ICSDC 2025 proceedings is published in <a href="https://www.routledge.com/Smart-and-Distributed-Computing/Rathore-Kumar/p/book/9781041376514" target="_blank" rel="noopener noreferrer">
+       CRC Press Conference Proceedings (SCOPUS-indexed).
+      </a>
     </p>
   </div>
 </div>
