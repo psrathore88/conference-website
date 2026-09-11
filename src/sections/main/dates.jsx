@@ -27,6 +27,16 @@ export default function ConferenceDates() {
         IMPORTANT DATES
       </motion.h2>
     </div>
+      <div className="container mx-auto px-4">
+      <motion.h2
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.2, duration: 0.5 }}
+        className="text-3xl font-semibold mb-16 text-center text-red"
+      >
+        COMING SOON!
+      </motion.h2>
+    </div>
   </motion.section>
   )
 }
