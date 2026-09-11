@@ -20,7 +20,7 @@ export function KeynoteSpeakers() {
           transition={{ duration: 0.5 }}
           className="text-4xl font-bold mb-12 text-center text-black"
         >
-          KEYNOTE SPEAKERS
+          ICSDC 2025 KEYNOTE SPEAKERS
         </motion.h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12 max-w-6xl mx-auto">
           {committeeMembers.map((member, index) => (
