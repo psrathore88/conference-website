@@ -88,6 +88,7 @@ export function HeroSection() {
         >
          30 July - 31 July 2027
         </motion.p>
+        </div>
     </motion.section>
   )
 }
