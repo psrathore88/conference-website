@@ -77,12 +77,12 @@ export default function Instructions() {
       Publication
     </h2>
     <p className="text-black">
-    ICSDC 2025 proceedings is published in <a href="https://www.routledge.com/Smart-and-Distributed-Computing/Rathore-Kumar/p/book/9781041376514" target="_blank" rel="noopener noreferrer">
+    ICSDC 2025 proceedings is published in <a href="https://www.routledge.com/Smart-and-Distributed-Computing/Rathore-Kumar/p/book/9781041376514" target="_blank" rel="noopener noreferrer" style={{ color: 'blue', textDecoration: 'underline' }>
        CRC Press Conference Proceedings (SCOPUS-indexed).
       </a>
     </p>
   </div>
-</div>
+</div> 
       <p className="text-center text-black">We look forward to your participation in ICSDC 2027! </p>
     </div>
     </motion.section>
