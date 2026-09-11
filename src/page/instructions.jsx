@@ -41,11 +41,11 @@ export default function Instructions() {
         </CardHeader>
         <CardContent>
           <ul className="list-disc pl-6 space-y-2 text-black">
-            <li>All submissions will be handled electronically using Microsoft's CMT platform.Papers sent via email will not be accepted</li>
+            <li>All submissions will be handled electronically using Microsoft's CMT platform.Papers sent via email will not be accepted.</li>
             <li>The primary author ensures that all co-author details are accurately added to the CMT portal to facilitate communication.</li>
-            <li>Authors must specify a primary track or area for their submission during submission</li>
-            <li>Upon submission, each paper will be assigned a unique Paper ID, which must be referenced in all future communications</li>
-            <li>By submitting a paper, authors agree to adhere to all ICSDC 2027 policies</li>
+            <li>Authors must specify a primary track or area for their submission during submission.</li>
+            <li>Upon submission, each paper will be assigned a unique Paper ID, which must be referenced in all future communications.</li>
+            <li>By submitting a paper, authors agree to adhere to all ICSDC 2027 policies.</li>
 
 
           </ul>
