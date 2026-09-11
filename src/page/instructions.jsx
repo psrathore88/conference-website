@@ -28,7 +28,8 @@ export default function Instructions() {
     </CardTitle>
   </CardHeader>
   <CardContent>
-  <CardContentCalender />
+    COMING SOON!
+  {/*<CardContentCalender />*/}
 </CardContent>
 </Card>
 
